@@ -1,8 +1,8 @@
-### Olá!Eu sou Vitória Janaína
+### Olá! Eu sou Vitória Janaína
 📩 Linkedin: https://www.linkedin.com/in/vitoria-nicolau-b46474234
 ---
 ### Formação academica
-- Formada em Marketing Digital (Anhaguera) ✔️  
+- Formada em Marketing Digital (Anhanguera) ✔️  
 - Cursando Ciencia da Computação (FAM) ⌛ 
 ---
 ### Cursos extracurriculares 
@@ -15,7 +15,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" />&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
